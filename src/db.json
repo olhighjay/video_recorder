@@ -1,0 +1,49 @@
+{
+  "recordings": [
+    {
+      "id": 1,
+      "title": "Getting it right the first time ",
+      "description": "The Video description is shown here if the user has added it.",
+      "views": "424",
+      "size": "923",
+      "image" : "profile.jpg",
+      "updated_at": "2022-04-29T09:37:35+02:00"
+    },
+    {
+      "id": 2,
+      "title": "Getting it right the first time ",
+      "description": "The Video description is shown here if the user has added it.",
+      "views": "424",
+      "size": "923",
+      "image" : "profile.jpg",
+      "updated_at": "2022-04-29T09:37:35+02:00"
+    },
+    {
+      "id": 3,
+      "title": "Getting it right the first time ",
+      "description": "The Video description is shown here if the user has added it.",
+      "views": "424",
+      "size": "923",
+      "image" : "profile.jpg",
+      "updated_at": "2022-04-29T09:37:35+02:00"
+    },
+    {
+      "id": 4,
+      "title": "Getting it right the first time ",
+      "description": "The Video description is shown here if the user has added it.",
+      "views": "424",
+      "size": "923",
+      "image" : "profile.jpg",
+      "updated_at": "2022-04-29T09:37:35+02:00"
+    },
+    {
+      "id": 5,
+      "title": "Getting it right the first time ",
+      "description": "The Video description is shown here if the user has added it.",
+      "views": "424",
+      "size": "923",
+      "image" : "profile.jpg",
+      "updated_at": "2022-04-29T09:37:35+02:00"
+    }
+  ]
+}
